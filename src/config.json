@@ -1,0 +1,160 @@
+{
+    "cores": {
+        "principal": "#FF8303",
+        "secundaria": "#1B1A17",
+        "terciaria": "#A35709",
+        "fundo": "#F0E3CA",
+        "rodape_fundo": "#FF8303",
+        "rodape_txt": "#F0E3CA",
+        "fundo_botao": "#FF8303",
+        "txt_botao": "#F0E3CA",
+        "fundo_menu": "#FF8303",
+        "txt_menu": "#F0E3CA"
+    },
+    "imgs": {
+        "obs": "todas as imagens salvar na pasta assets! Abaixo deve colocar somente nome do arquivo",
+        "logo_nome_img": "logo-nav.png",
+        "fundo": "NÃO FUNCIONA. COLOCAR IMAGEM DESEJA EM assets E RENOMEAR PARA bg.png",
+        "principal": "comida-1.png",
+        "meio_menu": "div.png",
+        "detalhe_subtitulos": "subtitle.svg",
+        "fundo_secao_2": "C.png",
+        "divisao_secao_2": "knife.png",
+        "chef_foto": "chef.png",
+        "chef_assinatura": "ass.png",
+        "infos_img": "fachada.png",
+        "rodape_logo": "logo-nav.png",
+        "rodape_detalhe": "subtitle-footer.svg"
+    },
+    "links_menu": [
+        {
+            "label": "Home",
+            "link": "#home"
+        },
+        {
+            "label": "Sobre nós",
+            "link": "#sobre"
+        },
+        {
+            "label": "Cardápio",
+            "link": "#cardapio"
+        },
+        {
+            "label": "Galeria",
+            "link": "#galeria"
+        },
+        {
+            "label": "Info",
+            "link": "#info"
+        }
+    ],
+    "subtitulo": "Uma nova experiência",
+    "titulo": "A verdadeira modernindade gastronômica",
+    "descricao_titulo": "Venha conhecer o Chez Dupont, um restaurante moderno e fino que oferece o melhor da culinária mundial. Experimente pratos deliciosos, preparados com ingredientes frescos e de qualidade. Aproveite o ambiente elegante e acolhedor, decorado com cores neutras e toques de vermelho. Faça sua reserva e surpreenda-se com o Chez Dupont.",
+    "txt_btn": "Ver cardápio",
+    "link_btn": "#cardapio",
+    "titulo_1_secao_2": "Sobre nós",
+    "txt_1_secao_2": "Somos o Chez Dupont, um restaurante moderno e fino que oferece o melhor da culinária mundial. Nossa missão é proporcionar uma experiência gastronômica única e inesquecível aos nossos clientes. Nossa equipe é formada por profissionais qualificados e apaixonados pela arte da cozinha. Nossos pratos são elaborados com ingredientes frescos e de qualidade, selecionados cuidadosamente pelos nossos chefs. Nossa decoração é elegante e acolhedora, inspirada nas cores neutras e no vermelho da bandeira francesa. Nossa logo é simples e sofisticada, representando o nosso nome e o nosso estilo. Venha conhecer o Chez Dupont e se surpreenda com o nosso sabor.",
+    "btn_1_secao_2": {
+        "visivel": false,
+        "txt": "txt btn"
+    },
+    "titulo_2_secao_2": "Nossos serviços",
+    "txt_2_secao_2": "No Chez Dupont, nós oferecemos diversos serviços para atender às suas necessidades e expectativas. Você pode fazer a sua reserva online ou por telefone, escolhendo o horário e o número de pessoas. Você pode escolher entre as nossas opções de menu, que variam de acordo com a estação do ano e a disponibilidade dos ingredientes. Você pode solicitar pratos especiais, como vegetarianos, veganos, sem glúten ou sem lactose. Você pode aproveitar a nossa adega de vinhos, que conta com uma seleção de rótulos nacionais e internacionais. Você pode contratar o nosso serviço de catering, que leva o nosso sabor até o seu evento. Você pode participar dos nossos cursos de culinária, que ensinam as técnicas e os segredos da gastronomia francesa. No Chez Dupont, nós fazemos de tudo para que você se sinta em casa.",
+    "btn_2_secao_2": {
+        "visivel": false,
+        "txt": "txt btn"
+    },
+    "titulo_cardapio": "Cardápio",
+    "subtitulo_cardapio": "Nossos maiores destaques",
+    "titulo_cardapio_items_1": "Bebidas",
+    "items_cardapio_1": [
+        {
+            "titulo": "Martini de Safira",
+            "subtitulo": "Coquetel | Gim | Licor | Limão",
+            "preco": 49.99
+        },
+        {
+            "titulo": "Café Kopi Luwak",
+            "subtitulo": "Café civeta | Caneta | Aromático",
+            "preco": 74.99
+        },
+        {
+            "titulo": "Mojito de Ouro",
+            "subtitulo": "Rum | Hortelã | Limão",
+            "preco": 98.90
+        },
+        {
+            "titulo": "Antartic Nail Ale",
+            "subtitulo": "Cerveja | Refrescante",
+            "preco": 199.99
+        }
+    ],
+    "titulo_cardapio_items_2": "Pratos Principais",
+    "items_cardapio_2": [
+        {
+            "titulo": "Foie gras com figos caramelizados",
+            "subtitulo": "Foie gras | Caramelo | Vinagre",
+            "preco": 119.99
+        },
+        {
+            "titulo": "Lagosta Thermidor",
+            "subtitulo": "Lagosta | Queijo | Conhaque",
+            "preco": 139.99
+        },
+        {
+            "titulo": "Risoto de Trufas Negras",
+            "subtitulo": "Risoto | Trufas | Sofisticado",
+            "preco": 189.99
+        }
+    ],
+    "chef_subtitulo": "Relato do nosso Chef",
+    "chef_titulo": "Tradição e inovação na nossa culinária",
+    "chef_txt": "Olá, eu sou o Antoine Caestecker, o chef e proprietário do Chez Dupont, um restaurante moderno e fino que oferece o melhor da culinária mundial. Eu nasci na França, mas me mudei para o Brasil há 10 anos, em busca de novos desafios e oportunidades. Eu sempre fui apaixonado pela gastronomia francesa, que aprendi com a minha família e com os meus mestres. No Chez Dupont, eu quero compartilhar com vocês os pratos clássicos e contemporâneos da minha terra natal, preparados com ingredientes frescos e de qualidade, selecionados cuidadosamente pelos meus chefs. No meu restaurante, você vai encontrar um ambiente elegante e acolhedor, decorado com as cores neutras e o vermelho da bandeira francesa. A nossa logo é simples e sofisticada, representando o nosso nome e o nosso estilo. O nosso slogan é “Onde a tradição e a inovação se encontram na cozinha”. Venha conhecer o Chez Dupont e se surpreenda com o nosso sabor.",
+    "chef_nome": "Antoine Caestecker",
+    "chef_cargo": "Chef e Proprietário da Chez Dupont",
+    "galeria_subtitulo": "Galeria",
+    "galeria_titulo": "Veja nossas artes gastronômicas em nosso Instagram!",
+    "galeria_txt": "",
+    "galeria_link": "https://google.com",
+    "galeria_btn": "Abrir",
+    "galeria_data": [
+        {
+            "img_url": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "link_url": ""
+        },
+        {
+            "img_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?q=80&w=1827&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "link_url": ""
+        },
+        {
+            "img_url": "https://images.unsplash.com/photo-1568600891621-50f697b9a1c7?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "link_url": ""
+        },
+        {
+            "img_url": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "link_url": ""
+        },
+        {
+            "img_url": "https://images.unsplash.com/photo-1559054663-e8d23213f55c?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "link_url": ""
+        }
+        
+    ],
+    "infos_subtitulo": "Mais informações",
+    "infos_titulo": "Venha em nosso restaurante!",
+    "infos_endereco": "Rua das Rosas, 123, Vila Mariana, São Paulo - SP, CEP: 04048-000",
+    "infos_horas_titulo": "Horário de Funcionamento",
+    "infos_horas_infos": [
+        "Segunda a sexta, das 11h às 15h e das 18h às 22h",
+        "Sábado, das 11h às 16h e das 18h às 23h",
+        "Domingo, das 11h às 16h"
+    ],
+    "infos_btn": {
+        "visivel": false,
+        "txt": "string",
+        "link": "https://google.com"
+    },
+    "slogan": "Sempre inovando a culinária francesa e brasileira",
+    "direitos": "© 2024 Chez Dupont. Todos os direitos reservados."
+}
