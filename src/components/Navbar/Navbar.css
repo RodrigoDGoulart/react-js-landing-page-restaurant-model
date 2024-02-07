@@ -4,6 +4,9 @@
   justify-content: space-between;
   align-items: center;
   background: var(--color-black);
+  position: sticky;
+  top: 0;
+  z-index: 9999;
 
   padding: 1rem 2rem;
 }
